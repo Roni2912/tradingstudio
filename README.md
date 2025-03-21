@@ -8,7 +8,7 @@ Prerequisites: Node.js and npm should be installed on your local machine
 
 1. Clone the repository:
 ```
-git clone https://github.com/Roni2912/trading-strategy-app.git
+git clone https://github.com/Roni2912/tradingstudio
 cd trading-strategy-app
 ```
 
