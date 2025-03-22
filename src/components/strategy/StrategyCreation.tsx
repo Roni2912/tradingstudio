@@ -17,7 +17,7 @@ import { ScannerStep } from './ScannerStep';
 import { BuyTriggerStep } from './BuyTriggerStep';
 import { SellTriggerStep } from './SellTriggerStep';
 import { SimulationStep } from './SimulationStep';
-import Strategy from "../../types/strategy"
+import { Strategy } from "../../types/strategy"
 
 const steps = ['Scanner Rules', 'Buy Triggers', 'Sell Triggers', 'Simulation Settings'];
 
